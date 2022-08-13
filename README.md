@@ -1,7 +1,7 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ash (Destin Ashuza)
 
 <h3> 👨🏻‍💻 About Me </h3>
-#### I'm a fullstack junior developper
+I'm a fullstack junior developper
 I am a tech enthusiast, more interested in Web and Mobile development.
 I am a developer at OliverSoft Goma, but also I am freelance for certain projects.
 
