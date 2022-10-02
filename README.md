@@ -1,10 +1,5 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ash (Destin Ashuza)
 
-<h3> 👨🏻‍💻 About Me </h3>
-I'm a fullstack junior developper
-I am a tech enthusiast, more interested in Web and Mobile development.
-I am a developer at OliverSoft Goma, but also I am freelance for certain projects.
-
 <h3>🛠 Tech Stack</h3>
 
 - 💼 &nbsp; Mobile Application Development: Flutter (Dart), Java Android.
@@ -12,17 +7,12 @@ I am a developer at OliverSoft Goma, but also I am freelance for certain project
 - 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms), Java (Swing).
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, SQL Lite, Firebase, MySQL, Oracle.
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
 <h3><align=center>🛠 Git Contributions</h3>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AshDest&theme=tokyonight" />
+<img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&theme=tokyonight&layout=compact" />
+<br/>
+
 <p>
-  <img
-    align="left"
-    width="51%"
-    alt="My Stats"
-    src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=onedark"
-  />
   <img
     width="46%"
     alt="Top langs"
