@@ -42,12 +42,3 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=AshDest&label=Profile%20views&color=0e75b6&style=plastic" alt="AshDest" />
 <br/>
-
-# Contributions
-
-<h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
-<p align="center">
-	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
-	</a>
-</p>
