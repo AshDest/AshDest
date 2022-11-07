@@ -6,6 +6,16 @@
 - 💼 &nbsp; Web Application Development: PHP, Javascript, HTML5, CSS3, Django.
 - 💼 &nbsp; Enterprise Application Development(Desktop): C# (Winforms), VB.NET(Winforms), Java (Swing).
 - 💼 &nbsp; Database Developer : SQL Server, SQL Azure, MongoDB, SQL Lite, Firebase, MySQL, Oracle.
+  <br/>
+
+# Languages
+
+<h4 align="center">Most used languages (by number of commits)</h4>
+<p align="center">
+	<a href="https://profile.codersrank.io/user/AshDest#Tech%20Skills">
+		<img width="900em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=AshDest&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,Go,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&bg=white">
+	</a>
+</p>
 <br/>
 <h3><align=center>🛠 Git Contributions</h3>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AshDest&theme=tokyonight" />
