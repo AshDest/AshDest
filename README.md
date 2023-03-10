@@ -31,9 +31,6 @@
     src="https://github-profile-trophy.vercel.app/?username=AshDest&theme=onedark"
   />
  </p>
-
-[![AshDest's github activity graph](https://activity-graph.herokuapp.com/graph?username=AshDest&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/AshDest/github-readme-activity-graph)
-<br/>
 <br/>
 <img src="https://komarev.com/ghpvc/?username=AshDest&label=Profile%20views&color=0e75b6&style=plastic" alt="AshDest" />
 <br/>
