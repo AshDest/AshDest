@@ -182,25 +182,22 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=AshDest&theme=tokyonight" />
 <img align="letf" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&theme=tokyonight&layout=compact" />
 <br/>
-
 <p>
   <img
-    width="46%"
-    alt="Top langs"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=AshDest&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p> 
-  
-<br/>
-  
-<br/>
-<p align="center">
-  <img
-    align="center"
     width="100%"
+       align="center"
     alt="GitHub Streak Stats"
     src="https://github-profile-trophy.vercel.app/?username=AshDest&theme=onedark"
   />
- </p>
+</p>
 <br/>
+  <p>
+      <img
+    width="47%"
+    align="center"
+    alt="GitHub Streak Stats"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AshDest&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
+  />
+  </p>
 <img src="https://komarev.com/ghpvc/?username=AshDest&label=Profile%20views&color=0e75b6&style=plastic" alt="AshDest" />
 <br/>
