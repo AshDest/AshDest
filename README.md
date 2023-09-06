@@ -20,6 +20,18 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
 </p>
 
+### 🧰 Frameworks:
+
+<p>
+<img src="https://img.icons8.com/color/48/000000/laravel.png" alt="laravel" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jquery" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/>
+
 ### 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
