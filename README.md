@@ -8,7 +8,7 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 - 💬 Ask me about **anything**
 - 📫 How to reach me: \*\*
 
-### 🧰 Languages:
+### 🧰 Languages and Frameworks:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
@@ -20,21 +20,15 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
-</p>
-
-### 🧰 Frameworks:
-
-<p>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/>
-
 </p>
 
-### 🧰 Tools:
+### 🧰 Tools and Databases:
 
 <p>
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
@@ -43,11 +37,6 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual-studio" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40"/>
-</p>
-
-### 🧰 Databases:
-
-<p>
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
