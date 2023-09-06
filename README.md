@@ -8,39 +8,17 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 - 💬 Ask me about **anything**
 - 📫 How to reach me: \*\*
 
-### 🛠️ Languages and Tools:
+### 🧰 Languages:
 
 <p align="center">
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="40" height="40"/>
-
-<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visualstudio" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40"/>
-
-</b>
+</p>
 
 ### 📈 My GitHub Stats
 
