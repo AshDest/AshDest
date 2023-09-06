@@ -10,7 +10,7 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 
 ### 🧰 Languages:
 
-<p align="center">
+<p>
 <img src="https://img.icons8.com/color/48/000000/php.png" alt="php" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
