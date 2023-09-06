@@ -41,6 +41,20 @@
 <p> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&langs_count=10&theme=gotham&layout=compact" alt="ashuza" />
 </p>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<a href="https://github.com/AshDest">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AshDest&show_icons=true&theme=algolia&include_all_commits=true&count_private=true+count_public=true"/>
+  
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moise-Nturubika&layout=compact&langs_count=8&theme=algolia"/> -->
+-----
+<!--   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moise-Nturubika&layout=compact&langs_count=8&theme=algolia"/> -->
+  <!--<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moise-Nturubika&layout=compact&langs_count=8&theme=algolia"/>-->
+</a>
+</p>
+
 ### 📫 How to reach me:
 
 <p>
