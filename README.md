@@ -48,6 +48,11 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
 
+### 📊 My Top Languages
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&langs_count=10&theme=gotham&layout=compact" alt="ashuza" />
+</p>
+
 ### 📫 How to reach me:
 
 <p>
