@@ -1,12 +1,12 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Ash (Destin Ashuza)
+[]: # Project: AshDest
 
-I'm a Software Engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community.
+[]: # File: README.md
 
-- 🔭 I’m currently working on **Flutter**
-- 🌱 I’m currently learning **Flutter**
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 💬 Ask me about **anything**
-- 📫 How to reach me: \*\*
+[]: # Created: 2021-10-10 11:00:00 PDT
+
+[]: # Modified: 2021-10-10 11:00:00 PDT
+
+### Hi there 👋, I'm Ashuza
 
 ### 🧰 Languages and Frameworks:
 
