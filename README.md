@@ -1,12 +1,8 @@
-[]: # Project: AshDest
-
-[]: # File: README.md
-
-[]: # Created: 2021-10-10 11:00:00 PDT
-
-[]: # Modified: 2021-10-10 11:00:00 PDT
-
 ### Hi there 👋, I'm Ashuza
+
+#### I'm a Full Stack Developer
+
+![I'm a Full Stack Developer]
 
 ### 🧰 Languages and Frameworks:
 
