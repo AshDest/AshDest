@@ -25,14 +25,25 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 ### 🧰 Frameworks:
 
 <p>
-<img src="https://img.icons8.com/color/48/000000/laravel.png" alt="laravel" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/django.png" alt="django" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="tailwindcss" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/jquery.png" alt="jquery" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/express.png" alt="express" width="40" height="40"/>
+
+</p>
+
+### 🧰 Tools:
+
+<p>
+<img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/github.png" alt="github" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/gitlab.png" alt="gitlab" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visual-studio" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40"/>
+</p>
 
 ### 📈 My GitHub Stats
 
