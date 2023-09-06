@@ -8,15 +8,22 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 - 💬 Ask me about **anything**
 - 📫 How to reach me: \*\*
 
-### 📊 This week I spent my time on
+### 🛠️ Languages and Tools:
 
-<!--START_SECTION:waka-->
-
-```text
-Dart         1 hr 30 mins    ████████████████████████▓   98.77 %
-```
-
-<!--END_SECTION:waka-->
+<p align="center">
+<img src="https://img.icons8.com/color/48/000000/flutter.png" alt="flutter" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/dart.png" alt="dart" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/typescript.png" alt="typescript" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="nodejs" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java.png" alt="java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="c" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sass.png" alt="sass" width="40" height="40"/>
 
 ### 📈 My GitHub Stats
 
