@@ -18,6 +18,8 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/python.png" alt="python" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="c#" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="sql" width="40" height="40"/>
 </p>
 
 ### 🧰 Frameworks:
