@@ -45,6 +45,16 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40"/>
 </p>
 
+### 🧰 Databases:
+
+<p>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="mysql" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/firebase.png" alt="firebase" width="40" height="40"/>
+<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
+</p>
+
 ### 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
