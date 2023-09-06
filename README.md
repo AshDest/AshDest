@@ -33,7 +33,6 @@ I'm a Software Engineer who is passionate about making open-source more accessib
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="visualstudio" width="40" height="40"/>
 <img src="https://img.icons8.com/color/48/000000/figma--v1.png" alt="figma" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png" alt="adobexd" width="40" height="40"/>
 </b>
 
 ### 📈 My GitHub Stats
