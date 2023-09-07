@@ -41,7 +41,7 @@
 <p> 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" /> -->
 <img
-    width="30%"
+    width="100%"
     align="left"
     alt="GitHub Streak Stats"
     src="https://github-readme-streak-stats.herokuapp.com/?user=AshDest&theme=radical&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44"
