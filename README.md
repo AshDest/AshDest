@@ -39,7 +39,8 @@
 ### 📈 My GitHub Stats (This year) 📊 My Top Languages
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&langs_count=10&theme=gotham&layout=compact" alt="ashuza" />
+<img src="https://komarev.com/ghpvc/?username=AshDest&label=Profile%20views&color=0e75b6&style=plastic" alt="AshDest" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshDest&langs_count=10&theme=gotham&layout=compact" alt="ashuza" /> -->
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics (All Time)
