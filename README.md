@@ -36,9 +36,10 @@
 <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql server" width="40" height="40"/>
 </p>
 
-### 📈 My GitHub Stats (This year) 📊 My Top Languages
+### 📈 My GitHub current Stats
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" />
+<p> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=AshDest&show_icons=true&theme=gotham" alt="ashuza" /> -->
 <img
     width="30%"
     align="left"
